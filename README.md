@@ -8,8 +8,9 @@ Can be run on linux and windows OS using Nodejs.
 ## Usage:
 ```
 git clone https://github.com/Shaxzy/steamhours.git
+cd steamhours
 npm install
-node Idler
+node Idler.js
 ```
 enter your steam accounts credentials in Idler.js
 ```
