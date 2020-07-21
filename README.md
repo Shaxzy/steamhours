@@ -8,3 +8,13 @@ npm install
 node IdlerConfig
 ```
 Enter your steam accounts credentials in IdlerConfig.js
+```
+config.username = 'nick1';
+config.password = 'pass1';
+```
+Choose what games you want to idle IdlerConfig.js
+```
+config.games = [730,440,570]
+```
+730 = csgo
+game id's can be found here: https://steamdb.info/apps/
