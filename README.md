@@ -18,4 +18,5 @@ choose what games you want to idle IdlerConfig.js
 config.games = [730,440,570]
 ```
 730 = csgo
+
 game id's can be found here: https://steamdb.info/apps/
