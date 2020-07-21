@@ -7,16 +7,16 @@ Can be run on linux and windows OS using Nodejs.
 
 ## Usage:
 ```
-git clone https://github.com/Shaxzy/shaxzyhours.git
+git clone https://github.com/Shaxzy/steamhours.git
 npm install
-node IdlerConfig
+node Idler
 ```
-enter your steam accounts credentials in IdlerConfig.js
+enter your steam accounts credentials in Idler.js
 ```
 config.username = 'nick1';
 config.password = 'pass1';
 ```
-choose what games you want to idle IdlerConfig.js
+choose what games you want to idle Idler.js
 ```
 config.games = [730,440,570]
 ```
