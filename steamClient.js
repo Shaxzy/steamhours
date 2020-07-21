@@ -52,7 +52,7 @@ botFactory.buildBot = function (config)
 	bot.on("friendMessage", function(steamID, message) {
 		console.log("[" + this.username + "] Message from " + steamID+ ": " + message);
 		if ( !this.messageReceived[steamID] ) {
-			bot.chatMessage(steamID, "[Automated Message] I am currently idle. I will respond when I am next available.");
+			bot.chatMessage(steamID, "[Automated Message] I am currently idle. I will respond whenever I am available.");
 			this.messageReceived[steamID] = true;
 		}
 	});
