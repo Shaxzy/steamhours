@@ -6,7 +6,7 @@ It will check for OW, VAC and community bans. It also has automessage support, s
 Can be run on linux and windows OS using Nodejs.
 
 
-running:
+## Usage:
 ```
 git clone https://github.com/Shaxzy/shaxzyhours.git
 npm install
