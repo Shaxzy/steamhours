@@ -2,4 +2,4 @@
 
 npm install
 
-node IdlerConfig.js
+node IdlerConfig
