@@ -24,3 +24,6 @@ config.games = [730,440,570]
 730 = csgo
 
 game id's can be found here: https://steamdb.info/apps/
+
+## Known bugs:
+might bug out when using many accounts at the same time
